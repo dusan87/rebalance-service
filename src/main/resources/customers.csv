@@ -1,0 +1,5 @@
+customerId,email,riskLevel,dateOfBirth,retirementAge
+1,bob@bob.com,3,1961-04-29,65
+2,marley@marley.com,0,1987-08-07,34
+3,mat@mat.com,4,2001-01-15,55
+4,nostrategy@no.com,4,1955-01-01,65

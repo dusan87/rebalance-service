@@ -1,0 +1,2 @@
+strategyId,minRiskLevel,maxRiskLevel,minYearsToRetirement,maxYearsToRetirement,stockPercentage,cashPercentage,bondsPercentage
+0,1,5,10,40,10,20,70
